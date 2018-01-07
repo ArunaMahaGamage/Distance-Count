@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Distance Count</string>
+    <string name="preference_gps">gps</string>
+    <string name="saved_start_distance">start_distance</string>
+</resources>
